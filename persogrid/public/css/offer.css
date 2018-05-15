@@ -1,0 +1,58 @@
+/*.offerContainer{*/
+    /*width: 200px;*/
+    /*height: 200px;*/
+    /*border-radius: 0.3rem;*/
+    /*border: 1px solid lightgrey;*/
+
+    /*margin: 40px;*/
+
+/*}*/
+
+.align-middle{
+    display: inline;
+}
+
+#offersClicked{
+    font-weight: bold;
+    color: black;
+}
+
+.offerLogo{
+    padding-top: 15px;
+    width: 95%;
+    height: 50%;
+    border-radius: .3rem;
+    /*border: 1px solid black;*/
+    margin: 15px auto 0px auto;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.jobtitel{
+   color: #F28500;
+}
+
+.offerInfo{
+    padding-left: 8px;
+}
+
+.dateBot{
+    position: absolute;
+    bottom: 3px;
+    right: 10px;
+    padding: 0;
+    color: grey;
+}
+.addOffer{
+    position: absolute;
+    top: 40%;
+    left: 35%;
+    font-size: 4rem;
+}
+.addText{
+    position:absolute;
+    top:70%;
+    left: 1%;
+    width: 100%;
+}

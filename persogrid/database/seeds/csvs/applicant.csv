@@ -1,0 +1,49 @@
+sex;birthdate;experience;location;jobtitel;state;branche;education;degree;uID
+female;16.04.1985;Senior;Chur;Software Entwickler;Zufrieden ;IT-Dienstleistung ;Angewandte Informatik;BSc Abschluss;1
+male;16.04.1976;Senior;Aarau;Datenbank Entwickler;Suche Job ;IT Consulting ;Wirtschaftsinformatik;MSc Abschluss ;2
+male;16.04.1980;Senior;Bellinzona;IT-Berater;Unzufrieden;Finanzwesen ;Angewandte Informatik;MSc Abschluss;3
+male;16.04.1993;Junior;Montherod ;Frontend Entwickler ;Unzufrieden;Medientechnik ;Angewandte Informatik;BSc Abschluss;4
+male ;16.04.1988;Senior;Zürich;Backend Entwickler ;Zufrieden ;IT Consulting ;Wirtschaftsinformatik;MSc Abschluss;5
+male;16.04.1988;Junior;Cloten ;IT-Manager;Unzufrieden;IT Consulting;Angewandte Informatik;BSc Abschluss;6
+female;16.04.1983;Senior ;Dättnau;IT-Manager;Unzufrieden;Energiewirtschaft ;Angewandte Informatik;BSc Abschluss;7
+female;16.04.1979;Senior;Deisswil;Backend Entwickler ;Zufrieden ;IT Dienstleistung;Angewandte Informatik;MSc Abschluss;8
+male;16.04.1988;Junior;Zürich;IT-Manager;Unzufrieden;Maschinenbau;Wirtschaftsinformatik;BSc Abschluss;9
+male;16.04.1994;Junior;Lentigny;Frontend Entwickler ;Zufrieden ;Medientechnik ;;;10
+female;16.04.1994;Junior ;Aarau;Backend Entwickler ;Suche Job ;Finanzwesen ;Angewandte Informatik;MSc Abschluss;11
+female;16.04.1974;Senior;Zürich;IT-Manager;Unzufrieden;Energiewirtschaft ;Wirtschaftsinformatik;BSc Abschluss;12
+male;16.04.1991;Junior;Zürich;Webmaster;Unzufrieden;IT Consulting ;Angewandte Informatik;MSc Abschluss;13
+male;16.04.1997;Junior ;Tavannes ;Backend Entwickler ;Zufrieden ;IT-Dienstleistung ;Angewandte Informatik;BSc Abschluss;14
+male;16.04.1998;Junior;Sentier ;IT-Manager;Zufrieden ;IT Consulting ;Wirtschaftsinformatik;;15
+female;16.04.1975;Senior;Zürich;Frontend Entwickler ;Unzufrieden;Finanzwesen ;Angewandte Informatik;MSc Abschluss;16
+female;16.04.1978;Senior;Zürich;Backend Entwickler ;Zufrieden ;Medientechnik ;Angewandte Informatik;BSc Abschluss;17
+male;16.04.1987;Junior;Morissen ;IT-Manager;Suche Job ;IT Consulting ;Angewandte Informatik;MSc Abschluss ;18
+male;16.04.1994;Junior;Zürich;Webmaster;Unzufrieden;IT Consulting;;;19
+male;16.04.1987;Junior;Damvant ;Software Entwickler;Zufrieden ;Energiewirtschaft ;Angewandte Informatik;BSc Abschluss;20
+male;16.04.1981;Senior;Lausanne;Datenbank Entwickler;Zufrieden ;IT Dienstleistung;Angewandte Informatik;MSc Abschluss ;21
+female;16.04.1989;Junior;Rüediswil;IT-Berater;Suche Job ;Maschinenbau;Angewandte Informatik;;22
+female;16.04.1979;Senoir;Rapperswil;Software Entwickler;Unzufrieden;Medientechnik ;Angewandte Informatik;BSc Abschluss;23
+male;16.04.1998;Junior;Zürich;Datenbank Entwickler;Zufrieden ;Finanzwesen ;Angewandte Informatik;MSc Abschluss;24
+male;16.04.1997;Junior;Zürich;IT-Berater;Suche Job ;Energiewirtschaft ;Wirtschaftsinformatik;BSc Abschluss;25
+male;16.04.1997;Junior;Zürich;Frontend Entwickler ;Unzufrieden;IT Consulting ;Angewandte Informatik;BSc Abschluss;26
+male;16.04.1979;Senior;Zürich;Backend Entwickler ;Zufrieden ;IT-Dienstleistung ;Wirtschaftsinformatik;MSc Abschluss;27
+male;16.04.1985;Senior;Vuarmarens;IT-Manager;Suche Job ;IT Consulting ;;;28
+male;16.04.1994;Junior;Sitten;Webmaster;Unzufrieden;IT-Dienstleistung ;Wirtschaftsinformatik;BSc Abschluss;29
+female;16.04.1983;Senior;Zürich;Software Entwickler;Zufrieden ;IT Consulting ;Wirtschaftsinformatik;MSc Abschluss ;30
+male;16.04.1986;Senior;Zürich;Datenbank Entwickler;Suche Job ;Finanzwesen ;Angewandte Informatik;MSc Abschluss;31
+female;16.04.1998;Junior;Buttenried ;IT-Berater;Unzufrieden;Medientechnik ;Angewandte Informatik;BSc Abschluss;32
+female;16.04.1994;Junior;St. Gallen;Datenbank Entwickler;Unzufrieden;IT Consulting ;Angewandte Informatik;MSc Abschluss;33
+female;16.04.1984;Senior;Zürich;Frontend Entwickler ;Unzufrieden;IT Consulting;;;34
+male;16.04.1980;Senior;Heinrichswil;Backend Entwickler ;Zufrieden ;Energiewirtschaft ;Angewandte Informatik;BSc Abschluss;35
+female;16.04.1976;Senior;Laax;IT-Manager;Suche Job ;IT Dienstleistung;Wirtschaftsinformatik;MSc Abschluss;36
+female;16.04.1985;Senior;Zürich;Webmaster;Unzufrieden;Maschinenbau;Wirtschaftsinformatik;BSc Abschluss;37
+femalei;16.04.1988;Junior;Widen;Datenbank Entwickler;Suche Job ;Medientechnik ;Angewandte Informatik;MSc Abschluss ;38
+female;16.04.1983;Senior;Zürich;Frontend Entwickler ;Unzufrieden;Finanzwesen ;Angewandte Informatik;BSc Abschluss;39
+female;16.04.1997;Junior;Tschugg ;Backend Entwickler ;Zufrieden ;Energiewirtschaft ;Wirtschaftsinformatik;MSc Abschluss ;40
+male;16.04.1992;Junior;Zürich;IT-Manager;Suche Job ;IT Consulting ;Angewandte Informatik;MSc Abschluss;41
+female;16.04.1986;Senior;Sarnen ;Software Entwickler;Unzufrieden;IT-Dienstleistung ;;;42
+female;16.04.1999;Junior;Lengnau ;Datenbank Entwickler;Suche Job ;IT Consulting ;Angewandte Informatik;MSc Abschluss;43
+male;16.04.1978;Senior;Zürich;IT-Berater;Unzufrieden;IT-Dienstleistung ;Wirtschaftsinformatik;BSc Abschluss;44
+male;16.04.1995;Junior;Rapperswil;Frontend Entwickler ;Zufrieden ;IT Consulting ;Angewandte Informatik;BSc Abschluss;45
+male;16.04.1995;Junior;Oberrickenbach;Backend Entwickler ;Zufrieden ;Finanzwesen ;Angewandte Informatik;MSc Abschluss;46
+male;16.04.1976;Senior;Zürich;IT-Manager;Suche Job ;Medientechnik ;;;47
+male;16.04.1995;Junior;Zürich;Webmaster;Unzufrieden;IT Consulting ;Angewandte Informatik;MSc Abschluss ;48

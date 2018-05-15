@@ -1,0 +1,20 @@
+.profileContainer{
+    margin: 20px;
+    padding: 10px 10px 60px 10px;
+    border-radius: .3rem;
+    border: 1px solid grey;
+    position: relative;
+
+}
+
+.profileImage{
+    width: 150px;
+    height: 150px;
+    border: 1px solid grey;
+    margin: auto;
+}
+
+#userprofileClicked{
+    font-weight: bold;
+    color: black;
+}

@@ -1,0 +1,127 @@
+
+.benefitContainer img{
+    width: 80px;
+    height: 110px;
+
+}
+
+#ex1Slider .slider-selection {
+    background: #BABABA;
+}
+
+#ex1Slider{
+    margin: 30px 0 30px 0;
+}
+
+.slider.slider-horizontal:hover, .slider.slider-vertical:hover ,  .tooltip.tooltip-main { opacity: 1 !important; }
+
+.tooltip-inner{
+    color: teal;
+    background: transparent;
+}
+
+.salarySlider{
+    margin: 25px 0 25px 0;
+}
+
+.skillsB, .educationB , .benefitsB, .socialMediaB{
+    display: none;
+}
+
+.benefitsB{
+    border-radius: .3rem;
+    border: 1px solid lightgrey;
+}
+
+.extraInfoB{
+    margin-top: 25px;
+}
+
+.letsGo{
+    width: 250px;
+    height: 50px;
+}
+.circleBase {
+    border-radius: 50%;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.type1 {
+    width: 200px;
+    height: 200px;
+    background: url("../imgs/assistent_female.jpg");
+    background-size: cover;
+    background-position: center;
+    border: 2px solid grey;
+}
+
+.lolaLogo img{
+    height: 100px;
+    margin-bottom: 50px;
+}
+
+.speech-bubble {
+    position: relative;
+    background: transparent;
+    border-radius: .4em;
+    border: 1px solid grey;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+/*.speech-bubble:after {*/
+    /*content: '';*/
+    /*position: absolute;*/
+    /*top: 0;*/
+    /*left: 50%;*/
+    /*width: 0;*/
+    /*height: 0;*/
+    /*border: 15px solid transparent;*/
+    /*border-bottom-color: #00aabb;*/
+    /*border-top: 0;*/
+    /*margin-left: -15px;*/
+    /*margin-top: -15px;*/
+/*}*/
+
+.benefitContainer{
+    height: 120px;
+    width: 50px;
+    border-radius: 0.3rem;
+    border: 1px solid grey;
+    margin: 0 auto;
+    color: white;
+}
+.car{
+    background: url("../imgs/car.jpg");
+    background-size: cover;
+}
+.travel{
+    background: url("../imgs/travel.jpg");
+    background-size: cover;
+}
+.event{
+    background: url("../imgs/event.jpg");
+    background-size: cover;
+}
+
+.videoContainer{
+    widht: 70%;
+    margin: 50px 25px;
+    height: 200px;
+    background: url("../imgs/video_preview.jpg");
+    background-size: cover;
+}
+
+.modalText{
+    margin-top: 5px;
+    margin-bottom: 25px;
+}
+
+.businessInput{
+    width: 100%;
+    height: 150px;
+}
+.orange{
+    color: #F28500;
+}

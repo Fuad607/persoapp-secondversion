@@ -1,0 +1,45 @@
+html, body{
+    height: 100%;
+    width: 100%;
+}
+
+#app{
+    height: 100%;
+}
+
+.circleBase {
+    border-radius: 50%;
+
+}
+
+.orange{
+    color: #F28500;
+}
+
+.navbar-brand img{
+    max-height: 50px;
+}
+
+.type1 {
+    width: 40px;
+    height: 40px;
+    background: dodgerblue;
+
+
+}
+
+.content-wrapper{
+    height: 100%;
+    width: 100%;
+}
+
+h3{
+    color: #F28500;
+    font-size: 1.8rem;
+    font-weight: bold;
+}
+
+main{
+    margin-top: 10px;
+    margin-left: 10px;
+}
